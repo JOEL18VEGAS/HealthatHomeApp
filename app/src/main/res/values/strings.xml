@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Health at Home</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="hello">hello world</string>
+    <string name="Already_part">Already part of Us?</string>
+    <string name="btn_gs">Get Started</string>
+    <string name="dont_know">Don’t you know who we are?</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="sing_in">Sing In</string>
+    <string name="Hi_you">Hi there! Nice to see you again.</string>
+    <string name="dont_account">dont have an account?</string>
+</resources>
